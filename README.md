@@ -9,3 +9,5 @@
 | TF_2_Linear_Regression |  | Completed |
 | TF_2_Logistic_Regression |  | Completed |
 | TF_2_Train_and_Visualize_Word_Embeddings |  | Completed |
+| TF_2_Yelp_Restaurant_Reviews_Sentiment_Analysis |  |  Completed |
+| TF_2_CNN_EMNIST_Classification |  | Completed |
